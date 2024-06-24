@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{background-color: rgb(226, 226, 174);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{color: darkgoldenrod;
+}
+
+h1#principal {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: chartreuse;
+  text-align: center;
+}
+h2{font-family: cursive;}
+
+.basico {
+    background-color: chartreuse;
+}
